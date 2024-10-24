@@ -11,15 +11,42 @@ function Home() {
                     className="home__image"
                 />
                 <div className="home__row">
-                    <Product />
-                    <Product />
+                    <Product
+                        price={19.99}
+                        title={"The lean Startup"}
+                        rating={5}
+                    />
+                    <Product
+                        price={19.99}
+                        title={"The lean Startup"}
+                        rating={5}
+                    />
                 </div>
                 <div className="home__row">
-                    {/* {Product} */}
-                    {/* {Product} */}
-                    {/* {Product} */}
+                    <Product
+                        price={19.99}
+                        title={"The lean Startup"}
+                        rating={5}
+                    />
+                    <Product
+                        price={19.99}
+                        title={"The lean Startup"}
+                        rating={5}
+                    />
+
+                    <Product
+                        price={19.99}
+                        title={"The lean Startup"}
+                        rating={5}
+                    />
                 </div>
-                <div className="home__row">{/* {Product} */}</div>
+                <div className="home__row">
+                    <Product
+                        price={19.99}
+                        title={"The lean Startup"}
+                        rating={5}
+                    />
+                </div>
             </div>
         </div>
     );
