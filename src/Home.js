@@ -21,6 +21,16 @@ function Home() {
                         title={"The lean Startup"}
                         rating={5}
                     />
+                    <Product
+                        price={19.99}
+                        title={"The lean Startup"}
+                        rating={5}
+                    />
+                    <Product
+                        price={19.99}
+                        title={"The lean Startup"}
+                        rating={5}
+                    />
                 </div>
                 <div className="home__row">
                     <Product
