@@ -23,7 +23,7 @@ function Header() {
                     <div
                         className="header__ALL"
                         style={{
-                            fontSize: "9.5px",
+                            fontSize: "11px",
                             paddingLeft: "10px",
                             color: "#393535",
                             alignItems: "center",
@@ -34,7 +34,7 @@ function Header() {
                     <ArrowDropDownIcon
                         className="header__downIcon"
                         style={{
-                            fontSize: "22px",
+                            fontSize: "26px",
                             color: "#393535",
                             paddingRight: "5px",
                             paddingLeft: "5px",
@@ -54,7 +54,7 @@ function Header() {
                     style={{
                         borderTopRightRadius: "3px",
                         borderBottomRightRadius: "3px",
-                        fontSize: "90px",
+                        fontSize: "50px",
                     }}
                 />
             </div>
